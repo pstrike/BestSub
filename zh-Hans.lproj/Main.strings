@@ -1,0 +1,75 @@
+
+/* Class = "IBUIBarButtonItem"; title = "Category"; ObjectID = "1ZN-Zy-9au"; */
+"1ZN-Zy-9au.title" = "分类";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "8IG-RC-jTk"; */
+"8IG-RC-jTk.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "9gp-X0-jOq"; */
+"9gp-X0-jOq.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "Size"; ObjectID = "A7x-ty-ME8"; */
+"A7x-ty-ME8.text" = "尺寸";
+
+/* Class = "IBUINavigationItem"; title = "Product Details"; ObjectID = "Acl-6X-TJV"; */
+"Acl-6X-TJV.title" = "产品详情";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "EFw-EQ-y5R"; */
+"EFw-EQ-y5R.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "RbT-lV-RkZ"; */
+"RbT-lV-RkZ.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Loading..."; ObjectID = "SgR-oI-jup"; */
+"mrg-vv-vAR.text" = "读取数据...";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "ZKZ-dc-PML"; */
+"ZKZ-dc-PML.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Zfc-ld-NDp"; */
+"Zfc-ld-NDp.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Size:"; ObjectID = "act-Yt-Lbb"; */
+"act-Yt-Lbb.text" = "尺寸:";
+
+/* Class = "IBUIButton"; normalTitle = "Search"; ObjectID = "bnZ-yZ-6Sl"; */
+"bnZ-yZ-6Sl.normalTitle" = "搜索";
+
+/* Class = "IBUILabel"; text = "Product Name"; ObjectID = "cPJ-17-dFj"; */
+"cPJ-17-dFj.text" = "Product Name";
+
+/* Class = "IBUILabel"; text = "Material:"; ObjectID = "gSy-ZZ-Pat"; */
+"gSy-ZZ-Pat.text" = "材料:";
+
+/* Class = "IBUINavigationItem"; title = "BestSub"; ObjectID = "iHR-LB-pIm"; */
+"iHR-LB-pIm.title" = "";
+
+/* Class = "IBUILabel"; text = "Material"; ObjectID = "iYT-Ls-vfW"; */
+"iYT-Ls-vfW.text" = "材料";
+
+/* Class = "IBUINavigationItem"; title = "Category"; ObjectID = "isc-Nq-5rb"; */
+"isc-Nq-5rb.title" = "分类";
+
+/* Class = "IBUILabel"; text = "Weight:"; ObjectID = "mb2-Og-QTk"; */
+"mb2-Og-QTk.text" = "重量:";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "oSg-Se-ge5"; */
+"oSg-Se-ge5.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "pxD-OA-Jfs"; */
+"pxD-OA-Jfs.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "r5K-eS-VLc"; */
+"r5K-eS-VLc.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "placeholder"; ObjectID = "rkJ-es-CWz"; */
+"rkJ-es-CWz.text" = "placeholder";
+
+/* Class = "IBUILabel"; text = "Packing"; ObjectID = "uCa-S0-zaT"; */
+"uCa-S0-zaT.text" = "打包";
+
+/* Class = "IBUILabel"; text = "Product Name"; ObjectID = "uow-EK-aj3"; */
+"uow-EK-aj3.text" = "Product Name";
+
+/* Class = "IBUILabel"; text = "Weight"; ObjectID = "vGq-en-C8f"; */
+"vGq-en-C8f.text" = "重量";
